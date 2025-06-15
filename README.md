@@ -16,7 +16,7 @@ Technologies Used
 * JavaScript
 * OMDb API
 *  Clone this project:
-   git clone https://github.com/AbhinandiniEndabatla/MOVIE-SAERCH-APP
+   git clone :https://github.com/AbhinandiniEndabatla/MOVIE-SAERCH-APP
   
 
 
