@@ -9,6 +9,7 @@ Features
 * Direct link to IMDb page
 *  Mobile-friendly design
 * Shows error message for wrong or empty search
+
 Technologies Used
 * HTML
 * CSS
